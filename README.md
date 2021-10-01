@@ -3,7 +3,7 @@ Chrome extension that removes some distracting features of YouTube including the
 
 # Revolutionizing the Youtube Experience ... one Div at a time
 
-Mr Chapman has done it again. With dozens of characters, and over **4** lines of code, our favorite tech entrepreneur has once again revolutionized the global experience of digital minimalism. 
+Mr Chapman has done it again. With dozens of characters, and over **4** lines of JavaScript, our favorite tech entrepreneur has once again revolutionized the global experience of digital minimalism. 
 
 Join us... in a breathtaking journey through the content space. No longer burdened by frivolous and malicious violations of our digital peace, this marvelous Chrome extension is the hero we have been waiting for.
 
