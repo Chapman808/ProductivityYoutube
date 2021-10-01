@@ -5,6 +5,10 @@ Chrome extension that removes some distracting features of YouTube including the
 
 Mr Chapman has done it again. With dozens of characters, and over **4** lines of code, our favorite tech entrepreneur has once again revolutionized the global experience of digital minimalism. 
 
+Join us... in a breathtaking journey through the content space. No longer burdened by frivelous and malicious violations of our digital peace, this marvelous Chrome extension is the hero we have been looking for.
+
+**JK, but that was a demo in writing chrome extensions, and I have been finding it useful**
+
 # Usage
 
 > open Chrome extension manager, and enable "developer mode".
