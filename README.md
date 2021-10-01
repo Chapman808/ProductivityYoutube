@@ -1,7 +1,7 @@
 # ProductivityYoutube
 Chrome extension that removes some distracting features of YouTube including the sidebar and comment section. And yes... I did make this when I was supposed to be watching a lecture on YouTube!
 
-#Usage
+# Usage
 
 > open Chrome extension manager, and enable "developer mode".
 > Select "load unpacked" and upload productivity-youtube folder as an extension.
