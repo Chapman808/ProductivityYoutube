@@ -1,0 +1,14 @@
+{
+
+"manifest_version": 2,
+"name": "ProductivityTube",
+"description": "This extension removes some distracting components of the Youtube UI, such as the sidebar and comments",
+"version": "1.0",
+
+"content_scripts" : [{
+		"matches": ["https://www.youtube.com/watch*"],
+		"js": ["remove-content.js"]
+	}
+]
+
+}
