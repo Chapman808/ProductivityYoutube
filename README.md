@@ -15,6 +15,7 @@ Join us... in a breathtaking journey through the content space. No longer burden
 > Select "load unpacked" and upload productivity-youtube folder as an extension.
 > You're done! Toggle on the extension when you want a distraction-free Youtube experience. 
 
+**you might have to clear your cache and/or do a hard refresh on the webpage (shift-F5)**
 ![image](https://user-images.githubusercontent.com/16928672/135676546-c4b2f133-2c75-4e20-ad21-d29241b13ba2.png)
 
 Enjoy!
