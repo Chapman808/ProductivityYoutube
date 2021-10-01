@@ -1,6 +1,10 @@
 # ProductivityYoutube
 Chrome extension that removes some distracting features of YouTube including the sidebar and comment section. And yes... I did make this when I was supposed to be watching a lecture on YouTube!
 
+# Revolutionizing the Youtube Experience ... one Div at a time
+
+Mr Chapman has done it again. With dozens of characters, and over **4** lines of code, our favorite tech entrepreneur has once again revolutionized the global experience of digital minimalism. 
+
 # Usage
 
 > open Chrome extension manager, and enable "developer mode".
