@@ -7,7 +7,7 @@ Mr Chapman has done it again. With dozens of characters, and over **4** lines of
 
 Join us... in a breathtaking journey through the content space. No longer burdened by frivelous and malicious violations of our digital peace, this marvelous Chrome extension is the hero we have been looking for.
 
-**JK, but that was a demo in writing chrome extensions, and I have been finding it useful**
+**JK, but this has been a fun demo in writing chrome extensions, and I have been finding it useful**
 
 # Usage
 
